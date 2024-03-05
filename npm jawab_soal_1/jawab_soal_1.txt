@@ -1,0 +1,13 @@
+Nama : Muhammad Raihaan Perdana
+NIM  : 19623309
+
+Axios adalah sebuah library JavaScript yang digunakan untuk membuat HTTP requests. Axios digunakan untuk mengirimkan request ke server dan mengelola respon yang diterima. Library ini sangat populer di dunia pengembangan web, terutama dalam konteks aplikasi berbasis JavaScript seperti aplikasi web single-page (SPA). 
+
+Fitur dan keunggulan Axios:
+
+1. Sederhana dan Mudah Digunakan: Axios menyediakan antarmuka yang sederhana dan mudah dipahami untuk membuat permintaan HTTP.
+2. Dukungan untuk Promises: Axios menggunakan konsep Promise, sehingga memungkinkan pemrogram untuk menangani permintaan dan respon secara asynchronous dengan lebih mudah.
+3. Intersepsi Permintaan dan Respon: Axios memungkinkan Anda untuk melakukan intersepsi (interception) terhadap permintaan dan respon sebelum mereka mencapai fungsi pengguna akhir. Ini berguna untuk menambahkan konfigurasi global atau manipulasi data sebelum atau setelah permintaan dilakukan.
+4. Dukungan untuk Pembatalan Permintaan: Anda dapat membatalkan permintaan yang sedang berlangsung dengan mudah menggunakan fitur pembatalan yang disediakan oleh Axios.
+5. Dukungan untuk Pengiriman Data dengan Mudah: Axios mendukung pengiriman data dalam berbagai format, termasuk JSON, form-data, dan lainnya.
+6. Dukungan untuk Penanganan Kesalahan: Axios menyediakan penanganan kesalahan yang baik, memungkinkan Anda untuk menangani kesalahan HTTP dan status dengan jelas.
